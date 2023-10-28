@@ -1,0 +1,185 @@
+{
+    "classes": [
+        {
+            "nome": "arcanista",
+            "atributo": [
+                "inteligencia", 
+                "carisma"
+            ],
+            "pontosVida": 8,
+            "pontosMana": 6,
+            "periciasLivres": 2,
+            "pericias": [
+                "vontade",
+                "misticismo"
+            ]
+        },
+        {
+            "nome": "barbaro",
+            "atributo": [
+                "força"
+            ],
+            "pontosVida": 24,
+            "pontosMana": 3,
+            "periciasLivres": 4,
+            "pericias": [
+                "fortitude",
+                "luta"
+            ]
+        },
+        {
+            "nome": "bardo",
+            "atributo": [
+                "carisma"
+            ],
+            "pontosVida": 12,
+            "pontosMana": 4,
+            "periciasLivres": 6,
+            "pericias": [
+                "atuacao",
+                "reflexos"
+            ]
+        },
+        {
+            "nome": "bucaneiro",
+            "atributo": [
+                "destreza"
+            ],
+            "pontosVida": 16,
+            "pontosMana": 3,
+            "periciasLivres": 4,
+            "pericias": [
+                {
+                    "periciaUnica": ["luta", "pontaria"]
+                },
+                "reflexos"
+            ]
+        },
+        {
+            "nome": "caçador",
+            "atributo": [
+                "força", 
+                "destreza"
+            ],
+            "pontosVida": 16,
+            "pontosMana": 4,
+            "periciasLivres": 4,
+            "pericias": [
+                {
+                    "periciaUnica": ["luta", "pontaria"]
+                },
+                "sobrevivencia"
+            ]
+        },
+        {
+            "nome": "cavaleiro",
+            "atributo": [
+                "força"
+            ],
+            "pontosVida": 20,
+            "pontosMana": 3,
+            "periciasLivres": 2,
+            "pericias": [
+                "fortitude",
+                "luta"
+            ]
+        },
+        {
+            "nome": "clerigo",
+            "atributo": [
+                "sabedoria"
+            ],
+            "pontosVida": 16,
+            "pontosMana": 5,
+            "periciasLivres": 2,
+            "pericias": [
+                "religiao",
+                "vontade"
+            ]
+        },
+        {
+            "nome": "druida",
+            "atributo": [
+                "sabedoria"
+            ],
+            "pontosVida": 16,
+            "pontosMana": 4,
+            "periciasLivres": 4,
+            "pericias": [
+                "sobrevivencia",
+                "vontade"
+            ]
+        },
+        {
+            "nome": "guerreiro",
+            "atributo": [
+                "força",
+                "destreza"
+            ],
+            "pontosVida": 20,
+            "pontosMana": 3,
+            "periciasLivres": 2,
+            "pericias": [
+                {
+                    "periciaUnica": ["luta", "pontaria"]
+                },
+                "fortitude"
+            ]
+        },
+        {
+            "nome": "inventor",
+            "atributo": [
+                "inteligencia"
+            ],
+            "pontosVida": 12,
+            "pontosMana": 4,
+            "periciasLivres": 4,
+            "pericias": [
+                "oficio",
+                "vontade"
+            ]
+        },
+        {
+            "nome": "ladino",
+            "atributo": [
+                "destreza",
+                "inteligencia"
+            ],
+            "pontosVida": 12,
+            "pontosMana": 4,
+            "periciasLivres": 8,
+            "pericias": [
+                "ladinagem",
+                "reflexos"
+            ]
+        },
+        {
+            "nome": "lutador",
+            "atributo": [
+                "força"
+            ],
+            "pontosVida": 20,
+            "pontosMana": 3,
+            "periciasLivres": 4,
+            "pericias": [
+                "fortitude",
+                "luta"
+            ]
+        },
+        {
+            "nome": "nobre",
+            "atributo": [
+                "carisma"
+            ],
+            "pontosVida": 16,
+            "pontosMana": 4,
+            "periciasLivres": 4,
+            "pericias": [
+                {
+                    "periciaUnica": ["diplomacia", "intimidacao"]
+                },
+                "vontade"
+            ]
+        }
+    ]
+}
