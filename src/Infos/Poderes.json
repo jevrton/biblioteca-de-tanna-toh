@@ -1,5 +1,5 @@
 {
-  "Poderes": {
+  "poderes": {
     "combate": {
       "acuidade-com-arma": {
         "descricao": "Quando usa uma arma corpo a corpo leve ou uma arma de arremesso, você pode usar sua Destreza em vez de Força nos testes de ataque e rolagens de dano.",
