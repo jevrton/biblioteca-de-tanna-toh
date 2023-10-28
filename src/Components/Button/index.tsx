@@ -1,12 +1,17 @@
 import "./styles.css";
+import { FC } from "react";
 
-type ButtonProps = {
+interface ButtonProps {
     handleClick: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
+    text: string;
+    type: string;
 };
 
-const Button = ({handleClick}: ButtonProps) => {
+const Button : FC <ButtonProps> = ({handleClick, text, type}: ButtonProps) => {
     return (
-        <button className="btn" onClick={handleClick}>Adicionar Ficha</button>
+        <div>
+            <button className={`btn btn-${type}`} onClick={handleClick}>{text}</button>
+        </div>
     );
 }
 

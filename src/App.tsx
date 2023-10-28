@@ -10,7 +10,7 @@ const CriarFicha = () => {
 function App() {
   return (
     <div>
-      <Button handleClick={CriarFicha}/>
+      <Button handleClick={CriarFicha} text={"Adicionar Ficha"} type={"success"}/>
     </div>
   );
 }
