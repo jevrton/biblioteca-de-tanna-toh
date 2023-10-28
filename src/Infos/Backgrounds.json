@@ -1,0 +1,504 @@
+{
+    "origens": [
+        {
+            "nome": "acolito",
+            "beneficios": {
+                "pericias": [
+                    "cura",
+                    "religiao",
+                    "vontade",
+                    "medicina"
+                ],
+                "poderes": [
+                    "membro da igreja",
+                    "vontade de ferro"
+                ]
+            }
+        },
+        {
+            "nome": "amigo dos animais",
+            "beneficios": {
+                "pericias": [
+                    "adestramento",
+                    "cavalgar"
+                ],
+                "poderes": [
+                    "amigo especial"
+                ]
+            }
+        },
+        {
+            "nome": "amnésico",
+            "beneficios": {
+                "pericias": [
+                    "escolhido pelo mestre"
+                ],
+                "poderes": [
+                    "escolhido pelo mestre",
+                    "lembranças graduais"
+                ]
+            }
+        },
+        {
+            "nome": "aristocrata",
+            "beneficios": {
+                "pericias": [
+                    "diplomacia",
+                    "enganacao",
+                    "nobreza"
+                ],
+                "poderes": [
+                    "comandar",
+                    "sangue azul"
+                ]
+            }
+        },
+        {
+            "nome": "artesao",
+            "beneficios": {
+                "pericias": [
+                    "oficio",
+                    "vontade"
+                ],
+                "poderes": [
+                    "frutos do trabalho",
+                    "sortudo"
+                ]
+            }
+        },
+        {
+            "nome": "artista",
+            "beneficios": {
+                "pericias": [
+                    "atuacao",
+                    "enganacao"
+                ],
+                "poderes": [
+                    "atraente",
+                    "dom artistico",
+                    "sortudo",
+                    "torcida"
+                ]
+            }
+        },
+        {
+            "nome": "assistente de laboratorio",
+            "beneficios": {
+                "pericias": [
+                    "oficio (alquimista)",
+                    "misticismo"
+                ],
+                "poderes": [
+                    "esse cheiro...",
+                    "veneficio",
+                    "um poder da tormenta"
+                ]
+            }
+        },
+        {
+            "nome": "batedor",
+            "beneficios": {
+                "pericias": [
+                    "furtividade",
+                    "percepcao",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "a prova de tudo",
+                    "estilo de disparo",
+                    "sentidos aguçados"
+                ]
+            }
+        },
+        {
+            "nome": "capanga",
+            "beneficios": {
+                "pericias": [
+                    "luta",
+                    "intimidacao"
+                ],
+                "poderes": [
+                    "confissao",
+                    "um poder de combate"
+                ]
+            }
+        },
+        {
+            "nome": "charlatão",
+            "beneficios": {
+                "pericias": [
+                    "enganacao",
+                    "jogatina"
+                ],
+                "poderes": [
+                    "alpinista social",
+                    "aparencia inofensiva",
+                    "sortudo"
+                ]
+            }
+        },
+        {
+            "nome": "circense",
+            "beneficios": {
+                "pericias": [
+                    "acrobacia",
+                    "atuacao",
+                    "reflexos",
+                    "acrobatico"
+                ],
+                "poderes": [
+                    "torcida",
+                    "truque de magica"
+                ]
+            }
+        },
+        {
+            "nome": "criminoso",
+            "beneficios": {
+                "pericias": [
+                    "enganacao",
+                    "furtividade",
+                    "ladinagem"
+                ],
+                "poderes": [
+                    "punguista",
+                    "veneficio"
+                ]
+            }
+        },
+        {
+            "nome": "curandeiro",
+            "beneficios": {
+                "pericias": [
+                    "cura",
+                    "vontade",
+                    "medicina"
+                ],
+                "poderes": [
+                    "medico de campo",
+                    "veneficio"
+                ]
+            }
+        },
+        {
+            "nome": "eremita",
+            "beneficios": {
+                "pericias": [
+                    "misticismo",
+                    "religiao",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "busca interior",
+                    "lobo solitario"
+                ]
+            }
+        },
+        {
+            "nome": "escravo",
+            "beneficios": {
+                "pericias": [
+                    "atletismo",
+                    "fortitude",
+                    "furtividade"
+                ],
+                "poderes": [
+                    "desejo de liberdade",
+                    "vitalidade"
+                ]
+            }
+        },
+        {
+            "nome": "estudioso",
+            "beneficios": {
+                "pericias": [
+                    "conhecimento",
+                    "guerra",
+                    "misticismo"
+                ],
+                "poderes": [
+                    "aparencia inofensiva",
+                    "palpite fundamentado"
+                ]
+            }
+        },
+        {
+            "nome": "fazendeiro",
+            "beneficios": {
+                "pericias": [
+                    "adestramento",
+                    "cavalgar",
+                    "oficio (fazendeiro)",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "agua no feijao",
+                    "ginete"
+                ]
+            }
+        },
+        {
+            "nome": "forasteiro",
+            "beneficios": {
+                "pericias": [
+                    "cavalgar",
+                    "pilotagem",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "cultura exotica",
+                    "lobo solitario"
+                ]
+            }
+        },
+        {
+            "nome": "gladiador",
+            "beneficios": {
+                "pericias": [
+                    "atuacao",
+                    "luta"
+                ],
+                "poderes": [
+                    "atraente",
+                    "pao e circo",
+                    "torcida",
+                    "um poder de combate"
+                ]
+            }
+        },
+        {
+            "nome": "guarda",
+            "beneficios": {
+                "pericias": [
+                    "investigacao",
+                    "luta",
+                    "percepcao"
+                ],
+                "poderes": [
+                    "detetive",
+                    "investigador",
+                    "um poder de combate"
+                ]
+            }
+        },
+        {
+            "nome": "herdeiro",
+            "beneficios": {
+                "pericias": [
+                    "misticismo"
+                ],
+                "poderes": [
+                    "nobreza",
+                    "oficio",
+                    "comandar",
+                    "herança"
+                ]
+            }
+        },
+        {
+            "nome": "heroi campones",
+            "beneficios": {
+                "pericias": [
+                    "adestramento",
+                    "oficio"
+                ],
+                "poderes": [
+                    "coracao heroico",
+                    "sortudo",
+                    "surto heroico",
+                    "torcida"
+                ]
+            }
+        },
+        {
+            "nome": "marujo",
+            "beneficios": {
+                "pericias": [
+                    "atletismo",
+                    "jogatina",
+                    "pilotagem"
+                ],
+                "poderes": [
+                    "acrobatico",
+                    "passagem de navio"
+                ]
+            }
+        },
+        {
+            "nome": "mateiro",
+            "beneficios": {
+                "pericias": [
+                    "atletismo",
+                    "furtividade",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "lobo solitario",
+                    "sentidos aguçados",
+                    "vendedor de carcaças"
+                ]
+            }
+        },
+        {
+            "nome": "membro de guilda",
+            "beneficios": {
+                "pericias": [
+                    "diplomacia",
+                    "enganacao",
+                    "misticismo",
+                    "oficio"
+                ],
+                "poderes": [
+                    "foco em pericia",
+                    "rede de contatos"
+                ]
+            }
+        },
+        {
+            "nome": "mercador",
+            "beneficios": {
+                "pericias": [
+                    "diplomacia",
+                    "intuicao",
+                    "oficio"
+                ],
+                "poderes": [
+                    "negociacao",
+                    "proficiencia",
+                    "sortudo"
+                ]
+            }
+        },
+        {
+            "nome": "minerador",
+            "beneficios": {
+                "pericias": [
+                    "atletismo",
+                    "fortitude",
+                    "oficio (minerador)"
+                ],
+                "poderes": [
+                    "ataque poderoso",
+                    "escavador",
+                    "sentidos aguçados"
+                ]
+            }
+        },
+        {
+            "nome": "nomade",
+            "beneficios": {
+                "pericias": [
+                    "cavalgar",
+                    "pilotagem",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "lobo solitario",
+                    "mochileiro",
+                    "sentidos aguçados"
+                ]
+            }
+        },
+        {
+            "nome": "pivete",
+            "beneficios": {
+                "pericias": [
+                    "furtividade",
+                    "iniciativa",
+                    "ladinagem"
+                ],
+                "poderes": [
+                    "acrobatico",
+                    "aparencia inofensiva",
+                    "quebra-galho"
+                ]
+            }
+        },
+        {
+            "nome": "refugiado",
+            "beneficios": {
+                "pericias": [
+                    "fortitude",
+                    "reflexos",
+                    "vontade"
+                ],
+                "poderes": [
+                    "estoico",
+                    "vontade de ferro"
+                ]
+            }
+        },
+        {
+            "nome": "seguidor",
+            "beneficios": {
+                "pericias": [
+                    "adestramento",
+                    "oficio"
+                ],
+                "poderes": [
+                    "antigo mestre",
+                    "proficiencia",
+                    "surto heroico"
+                ]
+            }
+        },
+        {
+            "nome": "selvagem",
+            "beneficios": {
+                "pericias": [
+                    "percepcao",
+                    "reflexos",
+                    "sobrevivencia"
+                ],
+                "poderes": [
+                    "lobo solitario",
+                    "vida rustica",
+                    "vitalidade"
+                ]
+            }
+        },
+        {
+            "nome": "soldado",
+            "beneficios": {
+                "pericias": [
+                    "fortitude",
+                    "guerra",
+                    "luta",
+                    "pontaria"
+                ],
+                "poderes": [
+                    "influencia militar",
+                    "um poder de combate"
+                ]
+            }
+        },
+        {
+            "nome": "taverneiro",
+            "beneficios": {
+                "pericias": [
+                    "diplomacia",
+                    "jogatina",
+                    "oficio (cozinheiro)"
+                ],
+                "poderes": [
+                    "gororoba",
+                    "proficiencia",
+                    "vitalidade"
+                ]
+            }
+        },
+        {
+            "nome": "trabalhador",
+            "beneficios": {
+                "pericias": [
+                    "atletismo",
+                    "fortitude"
+                ],
+                "poderes": [
+                    "atletico",
+                    "esforcado"
+                ]
+            }
+        }
+    ]
+}
