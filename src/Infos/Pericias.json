@@ -1,0 +1,185 @@
+{
+    "pericias": [
+        {
+            "nome": "acrobacia",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": true
+        },
+        {
+            "nome": "adestramento",
+            "atributo": "carisma",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "atletismo",
+            "atributo": "força",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "atuacao",
+            "atributo": "carisma",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "cavalgar",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "conhecimento",
+            "atributo": "inteligencia",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "cura",
+            "atributo": "sabedoria",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "diplomacia",
+            "atributo": "carisma",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "enganacao",
+            "atributo": "carisma",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "fortitude",
+            "atributo": "constituicao",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "furtividade",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": true
+        },
+        {
+            "nome": "guerra",
+            "atributo": "inteligencia",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "iniciativa",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "intimidacao",
+            "atributo": "carisma",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "intuicao",
+            "atributo": "sabedoria",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "investigacao",
+            "atributo": "inteligencia",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "jogatina",
+            "atributo": "carisma",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "ladinagem",
+            "atributo": "destreza",
+            "somenteTreinada": true,
+            "penalidadeArmadura": true
+        },
+        {
+            "nome": "luta",
+            "atributo": "força",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "misticismo",
+            "atributo": "inteligencia",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "nobreza",
+            "atributo": "inteligencia",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "oficio",
+            "atributo": "inteligencia",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false,
+            "oficios": [
+                "armeiro",
+                "artesao",
+                "alquimista",
+                "cozinheiro",
+                "alfaiate"
+            ]
+        },
+        {
+            "nome": "percepcao",
+            "atributo": "sabedoria",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "pilotagem",
+            "atributo": "destreza",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "pontaria",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "reflexos",
+            "atributo": "destreza",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "religiao",
+            "atributo": "sabedoria",
+            "somenteTreinada": true,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "sobrevivencia",
+            "atributo": "sabedoria",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        },
+        {
+            "nome": "vontade",
+            "atributo": "sabedoria",
+            "somenteTreinada": false,
+            "penalidadeArmadura": false
+        }
+    ]
+}

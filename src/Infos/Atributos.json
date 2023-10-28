@@ -1,0 +1,10 @@
+{
+    "atributos": [
+        "força",
+        "destreza",
+        "constituicao",
+        "inteligencia",
+        "sabedoria",
+        "carisma"
+    ]
+}
