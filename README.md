@@ -13,6 +13,6 @@ relatado através do nosso discord oficial.
 
 # Equipe
 - [Jeverton](https://github.com/jevrton)
-- [https://github.com/NathanGabrielViacelliFernandes](Nathan)
+- [Nathan](https://github.com/NathanGabrielViacelliFernandes)
 - Matheus Piva
 - José Passarini
