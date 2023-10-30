@@ -12,7 +12,7 @@ Estamos utilizando o livro oficial, versão Jogo do Ano para definirmos as infor
 relatado através do nosso discord oficial.
 
 # Equipe
-- [https://github.com/jevrton](Jeverton)
+- [Jeverton](https://github.com/jevrton)
 - [https://github.com/NathanGabrielViacelliFernandes](Nathan)
 - Matheus Piva
 - José Passarini
