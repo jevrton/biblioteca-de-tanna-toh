@@ -17,7 +17,7 @@
         {
             "nome": "barbaro",
             "atributo": [
-                "força"
+                "forca"
             ],
             "pontosVida": 24,
             "pontosMana": 3,
@@ -58,7 +58,7 @@
         {
             "nome": "cacador",
             "atributo": [
-                "força", 
+                "forca", 
                 "destreza"
             ],
             "pontosVida": 16,
@@ -74,7 +74,7 @@
         {
             "nome": "cavaleiro",
             "atributo": [
-                "força"
+                "forca"
             ],
             "pontosVida": 20,
             "pontosMana": 3,
@@ -113,7 +113,7 @@
         {
             "nome": "guerreiro",
             "atributo": [
-                "força",
+                "forca",
                 "destreza"
             ],
             "pontosVida": 20,
@@ -156,7 +156,7 @@
         {
             "nome": "lutador",
             "atributo": [
-                "força"
+                "forca"
             ],
             "pontosVida": 20,
             "pontosMana": 3,

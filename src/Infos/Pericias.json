@@ -110,7 +110,7 @@
         },
         {
             "nome": "luta",
-            "atributo": "força",
+            "atributo": "forca",
             "somenteTreinada": false,
             "penalidadeArmadura": false
         },
